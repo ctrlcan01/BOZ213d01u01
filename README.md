@@ -1,5 +1,5 @@
 # BOZ213d01u01 Ahmet Can 
-# 🕵️ Ajan Sızma / Agent Infiltration
+# Ajan Sızma / Agent Infiltration
 
 **[🇹🇷 Türkçe](#tr) | [🇬🇧 English](#en)**
 
